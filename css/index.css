@@ -1,0 +1,34 @@
+#sence{
+	width: 600px;
+	height:600px;
+	margin:0 auto;
+	border:1px solid black;
+	background: black;
+}
+.block{
+	width: 28px;
+	height: 28px;
+	border:1px solid #fff;
+	background: #000;
+	border-radius: 5px;
+	/*margin-right:1px;*/
+	/*margin-bottom: 1px;*/
+	float: left;
+}
+.pingguo{
+	background: url('../img/3.jpg') no-repeat;
+}
+.dianji{
+	position:absolute;
+	left:50px;
+	top:50%;
+	width:80px;
+	height:30px;
+	background: #000;
+	color: #fff;
+	border: 3px solid green;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 30px;
+	cursor: pointer;
+}
